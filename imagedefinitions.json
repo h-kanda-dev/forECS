@@ -1,6 +1,6 @@
 [
    {
-     "name": "example",
-     "imageUri": "forECS :latest"
+     "name": "example_ngix",
+     "imageUri": "forECS:latest"
    }
 ]
